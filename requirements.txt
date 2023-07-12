@@ -1,0 +1,5 @@
+gensim
+fasttext
+tqdm
+nltk
+scikit-learn
